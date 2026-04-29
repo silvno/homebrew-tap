@@ -1,8 +1,8 @@
 class WtfAi < Formula
   desc "AI-powered command-line correction tool"
   homepage "https://github.com/silvno/wtf"
-  url "https://github.com/silvno/wtf/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "c57e29c65bc3f42645c3f2c3cec3c90c5772f0e9fc8ba2e76f14789073515e42"
+  url "https://github.com/silvno/wtf/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "9ff3b3f350b1bcb218f8d233df23bafb8d4ad1bceada3bb504d330c31ca7c933"
   license "MIT"
 
   depends_on "uv"
